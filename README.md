@@ -22,6 +22,8 @@ architectures guarantees precise herb classification, whereas the scalable text 
 pipeline ensures effortless access to invaluable Ayurvedic insights. This research sets
 the foundation for digitizing traditional practices and advocating evidence-based
 herbal medicine.
+
+
 Keywords: Convolutional Neural Network (CNN), Densenet121, Resnet50,
 Tokenization, Lemmatization, Named Entity Recognition (NER), Text Mining,
 MySQL.
